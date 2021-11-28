@@ -13,9 +13,10 @@ I'm studying front-end development at Hexlet.  I'm studying React.
 ![ESLint](https://img.shields.io/badge/-ESLint-000000??style=for-the-badge&logo=ESLint)
 ![Figma](https://img.shields.io/badge/-Figma-000000??style=for-the-badge&logo=Figma)
 
-<!-- 
-### My contacts -->
 
+### My contacts
+![gmail](https://img.shields.io/badge/-dimazubkov99@gmail.com-000000??style=for-the-badge&logo=google)
+![gmail](https://img.shields.io/badge/-Zubkov__D-000000??style=for-the-badge&logo=telegram)
 
 
 
