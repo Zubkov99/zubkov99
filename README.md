@@ -1,4 +1,4 @@
-# I'm beginner front-end developer
+# I'm front-end developer
 
 I'm studying front-end development at Hexlet.  I'm studying React.
 
