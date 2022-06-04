@@ -1,6 +1,6 @@
 # I'm front-end developer
 
-I'm studying front-end development at Hexlet.  I'm studying React.
+Hi, I am a self-taught front-end developer with commercial experience in IT
 
 ## Languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=JavaScript)
