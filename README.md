@@ -1,10 +1,12 @@
-# I'm front-end developer
+# I'm Front-end developer
 
 Hi, I am a self-taught front-end developer with commercial experience in IT
 
 ## Languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000000??style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000??style=for-the-badge&logo=redux)
+![Webpack](https://img.shields.io/badge/-Webpack-000000??style=for-the-badge&logo=webpack)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000??style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000??style=for-the-badge&logo=CSS3)
 ![Sass](https://img.shields.io/badge/-Sass-000000??style=for-the-badge&logo=sass)
