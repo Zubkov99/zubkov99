@@ -13,6 +13,7 @@ Hi, I am a self-taught front-end developer with commercial experience in IT
 ![Gulp](https://img.shields.io/badge/-Gulp-000000??style=for-the-badge&logo=gulp)
 ![Git](https://img.shields.io/badge/-Git-000000??style=for-the-badge&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-000000??style=for-the-badge&logo=postman)
+![Playwright](https://img.shields.io/badge/-Playwright-000000??style=for-the-badge&logo=playwright)
 ![Figma](https://img.shields.io/badge/-Figma-000000??style=for-the-badge&logo=Figma)
 
 
