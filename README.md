@@ -3,6 +3,7 @@
 Hi, I am a self-taught front-end developer with commercial experience in IT
 
 ## Languages ​​and tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000000??style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000??style=for-the-badge&logo=redux)
