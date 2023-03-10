@@ -1,4 +1,4 @@
-# I'm Front-end developer
+# I'm Software engineer
 
 Hi, I am a self-taught front-end developer with commercial experience in IT
 
