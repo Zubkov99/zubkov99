@@ -1,6 +1,6 @@
 # I'm Software engineer
 
-Hi, I am a self-taught front-end developer with commercial experience in IT
+Hi, I am a self-taught software engineer with commercial experience in IT
 
 ## Languages ​​and tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=TypeScript)
