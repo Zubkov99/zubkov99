@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Dmitrii — a Backend Developer 🚀  
+# Node.js Backend Developer
 
-I'm passionate about building robust and scalable backend systems. With over 3 years of experience in developing microservices using **Node.js**, **TypeScript**, and **NestJS**, I love diving deep into backend challenges, exploring new technologies, and applying Computer Science concepts to solve real-world problems.
+Hi there! I'm Dmitrii — a Backend Developer. I'm passionate about building robust and scalable backend systems. With over 3 years of experience in developing microservices using **Node.js**, **TypeScript**, and **NestJS**, I love diving deep into backend challenges, exploring new technologies, and applying Computer Science concepts to solve real-world problems.
 
 I'm passionate about backend development, Node.js, Golang, and distributed systems, and I enjoy working on backend architecture and building systems that create value for businesses.
 💡 Open to collaborating on **open-source projects**, especially in backend, and always happy to connect with like-minded developers.
