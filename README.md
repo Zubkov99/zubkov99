@@ -1,17 +1,22 @@
-# I'm Software engineer
+# 👋 Hi there! I'm Dmitrii — a Backend Developer 🚀  
 
-Hi, I am a self-taught software engineer with commercial experience in IT
+I'm passionate about building robust and scalable backend systems. With over 3 years of experience in developing microservices using **Node.js**, **TypeScript**, and **NestJS**, I love diving deep into backend challenges, exploring new technologies, and applying Computer Science concepts to solve real-world problems.  
+I'm particularly interested in **backend development**, **Node.js**, **Golang**, and **distributed systems**. I enjoy learning about **Computer Science** fundamentals and finding ways to create value for businesses.
 
-## Languages ​​and tools
+💡 Open to collaborating on **open-source projects**, especially in backend, and always happy to connect with like-minded developers.
+
+## ⚙️ Languages & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-000000??style=for-the-badge&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000??style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000??style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000000??style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000??style=for-the-badge&logo=redux)
-![Git](https://img.shields.io/badge/-Git-000000??style=for-the-badge&logo=Git)
-![Postman](https://img.shields.io/badge/-Postman-000000??style=for-the-badge&logo=postman)
-![Playwright](https://img.shields.io/badge/-Playwright-000000??style=for-the-badge&logo=playwright)
+![NestJS](https://img.shields.io/badge/-NestJS-000000??style=for-the-badge&logo=NestJS)
+![Golang](https://img.shields.io/badge/-Golang-000000??style=for-the-badge&logo=Go)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-000000??style=for-the-badge&logo=Redis)
+![React](https://img.shields.io/badge/-React-000000??style=for-the-badge&logo=React)
 
+---
 
-### My contacts
-![gmail](https://img.shields.io/badge/-dimazubkov99@gmail.com-000000??style=for-the-badge&logo=google)
-![gmail](https://img.shields.io/badge/-Zubkov__D-000000??style=for-the-badge&logo=telegram)
+## 🌍 Find Me Online
+- 📧 Email: [dimazubkov99@gmail.com](mailto:dimazubkov99@gmail.com)
+- 💬 Telegram: [@Zubkov_D](https://t.me/Zubkov_D)
