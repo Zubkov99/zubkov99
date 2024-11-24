@@ -14,7 +14,6 @@ I'm passionate about backend development, Node.js, Golang, and distributed syste
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000??style=for-the-badge&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000000??style=for-the-badge&logo=Redis)
-![NATS](https://img.shields.io/badge/-NATS-000000??style=for-the-badge&logo=NATS)
 ![React](https://img.shields.io/badge/-React-000000??style=for-the-badge&logo=React)
 
 ---
