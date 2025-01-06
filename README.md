@@ -1,6 +1,6 @@
 # Node.js Backend Developer
 
-Hi there! I'm Dmitrii — a Backend Developer. I'm passionate about building robust and scalable backend systems. With over 3 years of experience in developing microservices using **Node.js**, **TypeScript**, and **NestJS**, I love diving deep into backend challenges, exploring new technologies to solve real-world problems.
+Hi there! I'm Dmitrii — a Backend Developer. I'm passionate about building robust and scalable backend systems. With over 3 years of experience in developing microservices using **Node.js**, **TypeScript**, **NestJS** and a little bit of **Go**, I love diving deep into backend challenges, exploring new technologies to solve real-world problems.
 
 ## ⚙️ Languages & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-000000??style=for-the-badge&logo=Node.js)
